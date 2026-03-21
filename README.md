@@ -1,2 +1,3 @@
-# rapid-api-service-roev
-Automated issue comment bot repository
+# Rapid Api Service Roev
+
+Automated issue comment bot repository.
